@@ -11,7 +11,7 @@ plugin-code-ktlint-source = "0.45.2"
 plugin-code-detekt = "1.22.0"
 
 # plugin - kotlin
-plugin-kotlin-ksp = "1.8.10-1.0.9"
+plugin-kotlin-ksp = "1.9.25-1.0.20"
 
 # plugin - compose
 plugin-compose-paparazzi = "1.2.0"
@@ -28,11 +28,11 @@ plugin-util-secrets = "2.0.1"
 plugin-local-master = "master"
 
 # kotlin
-kotlin-core = "1.8.10"
+kotlin-core = "1.9.25"
 kotlin-dokka = "1.8.10"
-kotlin-kover = "0.6.1"
-kotlin-coroutines = "1.6.4"
-kotlin-collections-immutable = "0.3.5"
+kotlin-kover = "0.9.1"
+kotlin-coroutines = "1.10.1"
+kotlin-collections-immutable = "0.3.8"
 
 # apache
 apache-commons-io = "2.11.0"
