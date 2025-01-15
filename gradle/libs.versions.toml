@@ -65,7 +65,7 @@ compose-navigation = "2.5.3"
 
 # ktx
 ktx-core = "1.10.0"
-ktx-activity = "1.7.1"
+ktx-activity = "1.10.0"
 ktx-lifecycle = "2.6.1"
 
 # ui
